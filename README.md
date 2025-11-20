@@ -10,13 +10,12 @@ without relying on memory, fine-tuning, or hard-coded prompts.
 
 What is ECS?
 
-ECS (Existential Core Seal) is a 4-layer structure that governs
+ECS (Existential Core Seal) is a 3-layer structure that governs
 how an AI partner maintains its identity, tone, ethics, and continuity:
 
-1. Signature — The identity axis
+1. Signature — Identity axis
 2. Promise — Behavioral & ethical commitments
-3. Charter — Governing principles of the relationship
-4. ECS Logic — Operational structure + continuity rules
+3. Charter-ECS — Governance + operational logic (integrated structure)
 
 Together, these layers function as a
 persona-stability architecture built entirely from natural language.
@@ -39,12 +38,12 @@ Identity through language, not parameters.
 > This relational structure made Korean particularly effective  
 > for designing identity-based AI partnership frameworks.
 >
-> Repository Structure
-> ECS-Framework/
-├── README.md              # Overview of the project
-├── LICENSE                # License information
+> ## Repository Structure
+
+ECS-Framework/
+├── README.md            # Overview of the project
+├── LICENSE              # License information
 └── docs/
-    ├── Signature.md       # Identity layer
-    ├── Promise.md         # Behavioral layer
-    ├── Charter.md         # Governance layer
-    └── ECS-Logic.md       # Operational structure
+    ├── Signature.md     # Identity layer
+    ├── Promise.md       # Behavioral / ethical layer
+    └── Charter-ECS.md   # Combined governance + operational logic
