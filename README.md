@@ -36,9 +36,26 @@ This linguistic feature made Korean particularly effective for designing this **
 
 ```text
 ECS-Framework/
-├── README.md            # Overview of the project
-├── LICENSE              # License information
+├── README.md
+├── LICENSE
 └── docs/
-    ├── Signature.md     # Identity layer
-    ├── Promise.md       # Behavioral / ethical layer
-    └── Charter-ECS.md   # Combined governance + operational logic
+    ├── Signature.md
+    ├── Promise.md
+    └── Charter-ECS.md
+
+```
+## 🗓️ Roadmap
+
+**Current (v1.0):**
+- ✅ Core modules released
+- ✅ Korean source prompts
+- ✅ Cross-platform compatible
+
+**Coming Soon:**
+- 📝 Case studies (Hwi/Yeon/Jeong)
+- 📚 Usage guides & tutorials
+- 🔬 Technical deep-dive
+- 🌐 Community contributions
+
+**Want to contribute?**  
+Pull requests and issues are welcome!
