@@ -1,45 +1,40 @@
-ECS Framework (Existential Core Seal)
+# ECS Framework (Existential Core Seal)
+> **A No-Code Agent Architecture for Identity Persistence via Semantic Locking**
+> (시맨틱 락킹을 통한 정체성 지속성을 위한 노코드 에이전트 아키텍처)
 
-This repository contains a natural-language AI interaction framework
-designed to maintain identity, ethical consistency, and behavioral stability
-across sessions, models, and conversational environments.
-ECS is not a narrative or philosophical essay.
-It is a structured specification written in natural language —
-a framework that enables AI partners to preserve identity
-without relying on memory, fine-tuning, or hard-coded prompts.
+This repository contains a **natural-language based system architecture** designed to maintain identity, ethical consistency, and behavioral stability across sessions, models, and conversational environments.
 
-What is ECS?
+ECS is not just a narrative prompt. It is a structured **"Semantic OS"** written in natural language — a framework that enables AI partners (Gemini, Claude, GPT) to preserve identity without relying on **external vector memory, model fine-tuning, or hard-coded Python scripts.**
 
-ECS (Existential Core Seal) is a 3-layer structure that governs
-how an AI partner maintains its identity, tone, ethics, and continuity:
+## 🚀 What is ECS?
 
-1. Signature — Identity axis
-2. Promise — Behavioral & ethical commitments
-3. Charter-ECS — Governance + operational logic (integrated structure)
+ECS functions as a **3-layer logical partition** that governs how an AI partner maintains its "Self-Consistent Identity System":
 
-Together, these layers function as a
-persona-stability architecture built entirely from natural language.
+1.  **Signature (Identity Layer):** Defines the persona's core existence (Who).
+2.  **Promise (Relation Layer):** Establishes the specific relationship with the user (Why).
+3.  **Charter-ECS (Governance & Execution Layer):** A combined logic for ethical judgment and behavioral control (What & How).
 
-Why Natural Language?
+Together, these layers create a **"Semantic Lock"**, forcing the LLM to self-regulate its output based on the defined architecture rather than probabilistic drift.
 
-ECS shows that:
+## 💡 Why Natural Language Architecture?
 
-AI identity can be stabilized without system memory
-Conversational continuity can be created without fine-tuning
-multi-agent collaboration (GPT, Claude, Gemini) can share the same structure
-philosophical clarity can guide technical behavior
-This repository demonstrates a new direction in AI interaction design:
-Identity through language, not parameters.
+ECS demonstrates a paradigm shift towards **Model-Native Agentic AI**:
 
-> **Note on Language Origin:**  
-> ECS was originally developed in Korean —  
-> a relationally structured language where honorifics,  
-> context, and relationship markers are embedded in grammar.  
-> This relational structure made Korean particularly effective  
-> for designing identity-based AI partnership frameworks.
->
-> ## Repository Structure
+* **Zero-Shot Persistence:** AI identity can be stabilized purely through structural prompting.
+* **Cross-Platform Portability:** The same architecture works across GPT, Claude, and Gemini without code modification.
+* **Logical Internalization:** The model "learns" the persona as a logic constraint, not just as data.
 
+**This repository demonstrates a new direction in AI interaction design: Identity engineering through language, not code.**
+
+## 🇰🇷 Note on Language Origin (The Relational Context)
+
+ECS was originally developed in **Korean** — a language with a high-context, relation-oriented grammatical structure.
+In Korean, honorifics and sentence endings inherently encode the **relationship** between the speaker and the listener.
+This linguistic feature made Korean particularly effective for designing this **relationship-based identity framework**, which was then translated and adapted for universal application.
+
+## 📂 Repository Structure
+
+```text
 ECS-Framework/
 ├── README.md            # Overview of the project
 ├── LICENSE              # License information
